@@ -23,9 +23,6 @@
             <mxPoint x="100" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UTVWMB36HyRUrSam_qoW-8" value="人脸图像与&lt;div&gt;证件图像比对&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="262.5" y="100" width="95" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-3" value="旅客在闸机前方" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="aM9ryv3xv72pqoxQDRHE-1" edge="1">
           <mxGeometry x="-0.0868" relative="1" as="geometry">
             <mxPoint x="-30" y="110" as="sourcePoint" />
@@ -54,9 +51,6 @@
             </Array>
             <mxPoint x="320" y="281" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="UTVWMB36HyRUrSam_qoW-16" value="分析返回命令" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="310" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="UTVWMB36HyRUrSam_qoW-26" value="5、服务器没有购票，&lt;div&gt;提示相关信息&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -184,6 +178,12 @@
         </mxCell>
         <mxCell id="UTVWMB36HyRUrSam_qoW-44" value="云端&lt;div&gt;检票服务器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-45">
           <mxGeometry y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-8" value="人脸图像与&lt;div&gt;证件图像比对&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="100" width="95" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-16" value="分析返回命令" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="100" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
