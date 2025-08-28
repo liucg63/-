@@ -177,9 +177,6 @@
         <mxCell id="UTVWMB36HyRUrSam_qoW-20" value="云端&lt;div&gt;检票服务器&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-45">
           <mxGeometry x="10" width="100" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="UTVWMB36HyRUrSam_qoW-22" value="服&lt;div&gt;务&lt;/div&gt;&lt;div&gt;器&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;据&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-20">
-          <mxGeometry x="45" y="90" width="15" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="UTVWMB36HyRUrSam_qoW-12" value="保&lt;div&gt;存&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-20">
           <mxGeometry x="37.5" y="400" width="32.5" height="180" as="geometry" />
         </mxCell>
