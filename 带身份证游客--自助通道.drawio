@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1672" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1836" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="人脸机/&lt;div&gt;离线身份证模块&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="40" width="100" height="760" as="geometry" />
-        </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="1、刷身份证" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="145" as="sourcePoint" />
@@ -26,12 +23,6 @@
             <mxPoint x="100" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UTVWMB36HyRUrSam_qoW-1" value="闸机" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="426" y="40" width="94" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="UTVWMB36HyRUrSam_qoW-2" value="分&lt;div&gt;析&lt;/div&gt;&lt;div&gt;通&lt;/div&gt;&lt;div&gt;道&lt;/div&gt;&lt;div&gt;行&lt;/div&gt;&lt;div&gt;人&lt;/div&gt;&lt;div&gt;通&lt;/div&gt;&lt;div&gt;行&lt;/div&gt;&lt;div&gt;状&lt;/div&gt;&lt;div&gt;态&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-1">
-          <mxGeometry x="38" y="412" width="18" height="170" as="geometry" />
-        </mxCell>
         <mxCell id="UTVWMB36HyRUrSam_qoW-8" value="人脸图像与&lt;div&gt;证件图像比对&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="262.5" y="100" width="95" height="90" as="geometry" />
         </mxCell>
@@ -44,12 +35,6 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="UTVWMB36HyRUrSam_qoW-11" value="嗯噢哇服务器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="40" width="100" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="UTVWMB36HyRUrSam_qoW-5" value="服&lt;div&gt;务&lt;/div&gt;&lt;div&gt;器&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;据&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-11">
-          <mxGeometry x="40" y="90" width="25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="UTVWMB36HyRUrSam_qoW-14" value="3、比对成功，身份证号码加密，向服务器请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="UTVWMB36HyRUrSam_qoW-11">
           <mxGeometry relative="1" as="geometry">
@@ -72,27 +57,6 @@
         </mxCell>
         <mxCell id="UTVWMB36HyRUrSam_qoW-16" value="分析返回命令" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="310" width="100" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="UTVWMB36HyRUrSam_qoW-17" value="&lt;div&gt;本地&lt;/div&gt;检票服务器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="820" y="40" width="100" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="UTVWMB36HyRUrSam_qoW-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-17">
-          <mxGeometry x="555" y="400" width="10" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="UTVWMB36HyRUrSam_qoW-19" value="保&lt;div&gt;存&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;br&gt;&lt;div&gt;&lt;div&gt;，&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;同&lt;/div&gt;&lt;div&gt;步&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-17">
-          <mxGeometry x="30" y="370" width="40" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="UTVWMB36HyRUrSam_qoW-20" value="云端&lt;div&gt;检票服务器&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="990" y="40" width="100" height="740" as="geometry" />
-        </mxCell>
-        <mxCell id="UTVWMB36HyRUrSam_qoW-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-20">
-          <mxGeometry x="555" y="400" width="10" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="UTVWMB36HyRUrSam_qoW-22" value="服&lt;div&gt;务&lt;/div&gt;&lt;div&gt;器&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;据&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-20">
-          <mxGeometry x="45" y="90" width="15" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="UTVWMB36HyRUrSam_qoW-12" value="保&lt;div&gt;存&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-20">
-          <mxGeometry x="37.5" y="400" width="32.5" height="180" as="geometry" />
         </mxCell>
         <mxCell id="UTVWMB36HyRUrSam_qoW-26" value="5、服务器没有购票，&lt;div&gt;提示相关信息&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -155,8 +119,71 @@
         <mxCell id="UTVWMB36HyRUrSam_qoW-34" value="带身份的证游客" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-35">
           <mxGeometry y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UTVWMB36HyRUrSam_qoW-36" value="人脸机/&lt;div&gt;身份证模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="800" width="120" height="60" as="geometry" />
+        <mxCell id="UTVWMB36HyRUrSam_qoW-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="40" width="120" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="人脸机/&lt;div&gt;离线身份证模块&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="UTVWMB36HyRUrSam_qoW-37" vertex="1">
+          <mxGeometry x="10" width="100" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-36" value="人脸机/&lt;div&gt;离线身份证模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-37">
+          <mxGeometry y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="413" y="40" width="120" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-1" value="闸机" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-39">
+          <mxGeometry x="13" width="94" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-2" value="分&lt;div&gt;析&lt;/div&gt;&lt;div&gt;通&lt;/div&gt;&lt;div&gt;道&lt;/div&gt;&lt;div&gt;行&lt;/div&gt;&lt;div&gt;人&lt;/div&gt;&lt;div&gt;通&lt;/div&gt;&lt;div&gt;行&lt;/div&gt;&lt;div&gt;状&lt;/div&gt;&lt;div&gt;态&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-1">
+          <mxGeometry x="38" y="412" width="18" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-38" value="闸机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-39">
+          <mxGeometry y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-41" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="593" y="40" width="120" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-11" value="嗯噢哇服务器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-41">
+          <mxGeometry x="7" width="100" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-5" value="服&lt;div&gt;务&lt;/div&gt;&lt;div&gt;器&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;据&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-11">
+          <mxGeometry x="40" y="90" width="25" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-40" value="嗯噢哇服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-41">
+          <mxGeometry y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="810" y="40" width="120" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-17" value="&lt;div&gt;本地&lt;/div&gt;检票服务器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-43">
+          <mxGeometry x="10" width="100" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-17">
+          <mxGeometry x="555" y="400" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-19" value="保&lt;div&gt;存&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;br&gt;&lt;div&gt;&lt;div&gt;，&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;同&lt;/div&gt;&lt;div&gt;步&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-17">
+          <mxGeometry x="30" y="370" width="40" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-42" value="本地&lt;div&gt;检票服务器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-43">
+          <mxGeometry y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="980" y="40" width="120" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-20" value="云端&lt;div&gt;检票服务器&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-45">
+          <mxGeometry x="10" width="100" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-20">
+          <mxGeometry x="555" y="400" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-22" value="服&lt;div&gt;务&lt;/div&gt;&lt;div&gt;器&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;析&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;据&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-20">
+          <mxGeometry x="45" y="90" width="15" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-12" value="保&lt;div&gt;存&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;/div&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-20">
+          <mxGeometry x="37.5" y="400" width="32.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="UTVWMB36HyRUrSam_qoW-44" value="云端&lt;div&gt;检票服务器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UTVWMB36HyRUrSam_qoW-45">
+          <mxGeometry y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
